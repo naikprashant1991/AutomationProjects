@@ -1,0 +1,15 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="softwaretestingmaterial">
+ <test name="testngTest">
+ <classes>
+ <class name="com.Test.ExceptionTimeoutTest" />
+ <class name="com.Test.GoogleTest" />
+ <class name="com.Test.GoogleTitleTest" />
+ <class name="com.Test.InvocationCountTest" />
+ <class name="com.Test.TestNGBasics" />
+ <class name="com.Test.TestNGFeatures" />
+ 
+ </classes>
+ </test>
+</suite>
